@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/1410292112951607350?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6s7bNF7FVB)
+
 # 🪄 UsableItem
 
 **UsableItem** is a lightweight and flexible **Paper/Bukkit 1.21.8** plugin for **Minecraft Java Edition**.  
